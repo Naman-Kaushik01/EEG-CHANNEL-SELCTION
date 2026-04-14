@@ -1,0 +1,6 @@
+{
+  "name": "EEG Channel Selection ML Project",
+  "description": "An interactive tool for EEG signal processing, feature extraction, and machine learning-based channel selection to optimize classification accuracy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
